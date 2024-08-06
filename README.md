@@ -2,6 +2,7 @@
 Electrical Engineering Question and Answer System
 # 介绍
 本项目是一个基于InternLM  [GitHub 仓库](https://github.com/InternLM/Tutorial)实现的注册电气工程师知识的问答系统，可以检索回答知识，帮助进行知识检索和考试备考等
+
 **教程安利**
 本项目完全基于大模型实战营构建，欢迎了解！ [GitHub 仓库](https://github.com/InternLM/Tutorial)
 # 模型特点
